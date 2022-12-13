@@ -87,7 +87,7 @@ This is a big topic for further study. We won't try to cover it in this challeng
 For this level your API _must_ also allow a client to:
 
 - [ ] Read *only* messages whose text contains a given substring: `/messages/search?text=express`
-- [ ] Read only the most recent 10 messages: `/messages/latest`
+- [] Read only the most recent 10 messages: `/messages/latest`
 
 ## Level 4 - Optional - add a timestamp, `timeSent`
 
